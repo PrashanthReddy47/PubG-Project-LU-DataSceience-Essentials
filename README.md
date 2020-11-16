@@ -1,4 +1,7 @@
-                                                  Video games have taken the world by storm.
+![pubg](https://user-images.githubusercontent.com/65906934/99274427-54cabe80-2850-11eb-9c5d-8fff11540a40.jpg)
+                                                                                           
+                                               
+                                               Video games have taken the world by storm.
 
 Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, scavenge, and eliminate other players until only one is left standing, all
 while the play zone continues to shrink. Data Science Essentials | November 2020 PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. With over 50 million copies sold, it's the fifth best selling game of all time, and has millions of active monthly players.
