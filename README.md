@@ -10,7 +10,7 @@ This competition is not an official or affiliated PUBG site - Kaggle collected d
 ## We are given over 65,000 games worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. 
 ###### What's the best strategy to win in PUBG? 
 ###### Should we sit in one spot and hide our way into victory, or 
-##### # Do we need to be the top shot?
+###### Do we need to be the top shot?
 
 
                                                       Dataset’s columns Description:
