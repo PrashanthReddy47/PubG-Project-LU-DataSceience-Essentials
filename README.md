@@ -7,10 +7,11 @@ Battle Royale-style video games have taken the world by storm. 100 players are d
 while the play zone continues to shrink. Data Science Essentials | November 2020 PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. With over 50 million copies sold, it's the fifth best selling game of all time, and has millions of active monthly players.
 The team at PUBG has made official game data available for the public to explore and scavenge outside of "The Blue Circle." 
 This competition is not an official or affiliated PUBG site - Kaggle collected data made possible through the PUBG Developer API.
-	You are given over 65,000 games' worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings.
-	What's the best strategy to win in PUBG? 
-	Should you sit in one spot and hide your way into victory, or
-	Do you need to be the top shot?
+## We are given over 65,000 games worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. 
+###### What's the best strategy to win in PUBG? 
+###### Should we sit in one spot and hide our way into victory, or 
+##### # Do we need to be the top shot?
+
 
                                                       Dataset’s columns Description:
 
