@@ -1,20 +1,21 @@
 ![pubg](https://user-images.githubusercontent.com/65906934/99274427-54cabe80-2850-11eb-9c5d-8fff11540a40.jpg)
-                                                                                           
-                                               
-                                               Video games have taken the world by storm.
+
+                                             Video games have taken the world by storm.
+### Context
+PlayerUnknown's Battlegrounds (PUBG) is a battle royale survival game with the goal of being the last player standing. Up to 100 players are dropped onto an island empty-handed with a variety of game modes that can allow squads of up to 4 people. In the game, a player can find and use a variety of weapons, items, and vehicles. Players must also avoid the shrinking “circle”, which pushes players closer together on the map.
 
 Battle Royale-style video games have taken the world by storm. 100 players are dropped onto an island empty-handed and must explore, scavenge, and eliminate other players until only one is left standing, all
 while the play zone continues to shrink. Data Science Essentials | November 2020 PlayerUnknown's BattleGrounds (PUBG) has enjoyed massive popularity. With over 50 million copies sold, it's the fifth best selling game of all time, and has millions of active monthly players.
 The team at PUBG has made official game data available for the public to explore and scavenge outside of "The Blue Circle." 
 This competition is not an official or affiliated PUBG site - Kaggle collected data made possible through the PUBG Developer API.
+
 ## We are given over 65,000 games worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. 
-###### What's the best strategy to win in PUBG? 
-###### Should we sit in one spot and hide our way into victory, or 
-###### Do we need to be the top shot?
+###### **What's the best strategy to win in PUBG?**
+###### **Should we sit in one spot and hide our way into victory, or ** 
+###### **Do we need to be the top shot?**
 
 
-                                                      Dataset’s columns Description:
-
+## Dataset’s columns Description:
 groupId - Integer ID to identify a group within a match. If the same group of players plays in differentmatches, they will have a different groupId each time.
 
 matchId - Integer ID to identify match. There are no matches that are in both the training and testing set.
