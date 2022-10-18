@@ -11,7 +11,7 @@ This competition is not an official or affiliated PUBG site - Kaggle collected d
 
 ## We are given over 65,000 games worth of anonymized player data, split into training and testing sets, and asked to predict final placement from final in-game stats and initial player ratings. 
 ###### **What's the best strategy to win in PUBG?**
-###### **Should we sit in one spot and hide our way into victory, or ** 
+###### Should we sit in one spot and hide our way into victory, or
 ###### **Do we need to be the top shot?**
 
 
@@ -69,6 +69,4 @@ winPoints - Win-based external ranking of player. (Think of this as an Elo ranki
 matters.)
 
 winPlacePerc - The target of prediction. This is a percentile winning placement, where 1 corresponds to
-1st place, and 0 corresponds to last place in the match. It is calculated off of maxPlace, not numGroups,
-                                              
-                                              so it is possible to have missing chunks in a match.
+1st place, and 0 corresponds to last place in the match. It is calculated off of maxPlace, not numGroups.
